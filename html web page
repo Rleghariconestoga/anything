@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supercars</title>
+</head>
+<body>
+
+    <!-- Author: Rayaan Leghari 
+         Email: Rleghari3926@conestogac.on.ca -->
+
+    <header>
+        <h1>Supercars</h1>
+    </header>
+    
+    <section>
+        <p>
+            Supercars are high-performance, luxury vehicles that push the boundaries of automotive engineering and design. These extraordinary machines are known for their exceptional speed, advanced technology, and eye-catching aesthetics.
+        </p> </section>
+
+    <section>
+    
+         <p>
+            With powerful engines, aerodynamic designs, and cutting-edge features, supercars are a symbol of automotive excellence. Enthusiasts and collectors alike appreciate the unique blend of power and elegance that defines the world of supercars.
+        </p>
+    </section>
+<footer>
+
+  <h4>  <!-- Contact the author: Rleghari3926@conestogac.on.ca --> </h4>
+    
+</footer>
+
+</body>
+</html>
